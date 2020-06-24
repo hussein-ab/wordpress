@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9e7518e-0260-4e48-9274-1ec51e6e93bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1dfrdPldGMy2DcW0CTjJsXOwMbF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/new theme" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\resumetheme\css" />
+      <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\resumetheme" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\new theme" />
+      <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\resumetheme" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e7518e-0260-4e48-9274-1ec51e6e93bd" name="Default Changelist" comment="" />
+      <created>1592827074355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592827074355</updated>
+      <workItem from="1592827075548" duration="11869000" />
+      <workItem from="1592866125575" duration="813000" />
+      <workItem from="1592897097724" duration="18173000" />
+      <workItem from="1592949794111" duration="165000" />
+      <workItem from="1592976115728" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="826" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592903001764">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="826" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1592903001764" />
+    <state x="658" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592900082993">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="658" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1592900082993" />
+    <state x="580" y="188" key="FileChooserDialogImpl" timestamp="1592866920936">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1592866920936" />
+    <state x="870" y="401" key="NewPhpFileDialog" timestamp="1592903220845">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="870" y="401" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1592903220845" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1592949934920">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1592949934920" />
+    <state x="507" y="64" width="586" height="732" key="find.popup" timestamp="1592838521163">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="64" width="586" height="732" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1592838521163" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1592909974971">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1592909974971" />
+    <state x="439" y="181" key="search.everywhere.popup" timestamp="1592913705083">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="439" y="181" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1592913705083" />
+  </component>
+</project>

@@ -1,0 +1,419 @@
+# Translation of Themes - Momentous Lite in English (UK)
+# This file is distributed under the same license as the Themes - Momentous Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 00:16:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Momentous Lite\n"
+
+#. Description of the plugin/theme
+msgid "Momentous is a modern Magazine theme featuring large post thumbnails, a clean typography and two column post layout. You can highlight your posts in the Featured Content area and display your social icons and search field in the header area with a few clicks. It goes without saying that Momentous is fully responsive and looks good on every device."
+msgstr "Momentous is a modern Magazine theme featuring large post thumbnails, a clean typography and two column post layout. You can highlight your posts in the Featured Content area and display your social icons and search field in the header area with a few clicks. It goes without saying that Momentous is fully responsive and looks good on every device."
+
+#. Theme Name of the plugin/theme
+msgid "Momentous Lite"
+msgstr "Momentous Lite"
+
+#: inc/customizer/sections/customizer-post.php:53
+msgid "Show post excerpts"
+msgstr "Show post excerpts"
+
+#: inc/customizer/sections/customizer-post.php:52
+msgid "Show full posts"
+msgstr "Show full posts"
+
+#: inc/customizer/sections/customizer-post.php:46
+msgid "Post Length"
+msgstr "Post Length"
+
+#: inc/theme-info.php:152
+msgid "Review Momentous Lite"
+msgstr "Review Momentous Lite"
+
+#: inc/theme-info.php:103
+msgid "Get more features"
+msgstr "Get more features"
+
+#: inc/customizer/functions/custom-controls.php:69 inc/theme-info.php:134
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: inc/customizer/functions/custom-controls.php:61 inc/theme-info.php:127
+msgid "Recommended Plugins"
+msgstr "Recommended Plugins"
+
+#: inc/customizer/functions/custom-controls.php:45 inc/theme-info.php:110
+msgid "Pro Version Add-on"
+msgstr "Pro Version Add-on"
+
+#: inc/customizer/customizer.php:183 inc/theme-info.php:50
+#: inc/theme-info.php:152
+msgid "https://wordpress.org/support/theme/momentous-lite/reviews/?filter=5"
+msgstr "https://wordpress.org/support/theme/momentous-lite/reviews/?filter=5"
+
+#: inc/customizer/customizer.php:58
+msgid "Display Site Title"
+msgstr "Display Site Title"
+
+#: functions.php:136
+msgid "Appears on posts and pages except the full width template."
+msgstr "Appears on posts and pages except the full width template."
+
+#: inc/theme-info.php:151
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/"
+
+#: inc/customizer/sections/customizer-post.php:219
+msgid "Display post navigation on single posts"
+msgstr "Display post navigation on single posts"
+
+#: inc/customizer/sections/customizer-post.php:206
+msgid "Post Footer"
+msgstr "Post Footer"
+
+#: inc/customizer/functions/custom-controls.php:52 inc/theme-info.php:116
+msgid "https://themezee.com/addons/momentous-pro/"
+msgstr "https://themezee.com/addons/momentous-pro/"
+
+#: inc/customizer/customizer.php:177 inc/theme-info.php:49
+#: inc/theme-info.php:70
+msgid "https://themezee.com/docs/momentous-documentation/"
+msgstr "https://themezee.com/docs/momentous-documentation/"
+
+#: inc/customizer/sections/customizer-upgrade.php:14
+msgid "More Features"
+msgstr "More Features"
+
+#: inc/customizer/functions/custom-controls.php:64 inc/theme-info.php:130
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "Extend the functionality of your WordPress website with our free and easy-to-use plugins."
+
+#: inc/customizer/customizer.php:162 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "Theme Links"
+
+#: inc/customizer/customizer.php:109
+msgid "Hide header image on front page"
+msgstr "Hide header image on front page"
+
+#: inc/customizer/customizer.php:92
+msgid "Header Image Link"
+msgstr "Header Image Link"
+
+#: inc/template-tags.php:190
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#: inc/template-tags.php:174
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/customizer/customizer.php:33
+msgid "Background"
+msgstr "Background"
+
+#: inc/customizer/customizer.php:166 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "Theme Page"
+
+#: inc/customizer/functions/custom-controls.php:48 inc/theme-info.php:113
+msgid "Purchase the %s Pro Add-on and get additional features and advanced customization options."
+msgstr "Purchase the %s Pro Add-on and get additional features and advanced customisation options."
+
+#: inc/customizer/functions/custom-controls.php:53 inc/theme-info.php:117
+msgid "Learn more about %s Pro"
+msgstr "Learn more about %s Pro"
+
+#: inc/theme-info.php:80
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "%s makes use of the Customiser for all theme settings. Click on \"Customise Theme\" to open the Customiser now."
+
+#: inc/theme-info.php:71
+msgid "View %s Documentation"
+msgstr "View %s Documentation"
+
+#: sidebar.php:16
+msgid "Please go to Appearance &#8594; Widgets and add some widgets to your sidebar."
+msgstr "Please go to Appearance &#8594; Widgets and add some widgets to your sidebar."
+
+#: search.php:44
+msgid "No matches"
+msgstr "No matches"
+
+#: 404.php:11
+msgid "404: Page not found"
+msgstr "404: Page not found"
+
+#: inc/customizer/sections/customizer-post.php:151
+msgid "Display post date"
+msgstr "Display post date"
+
+#: inc/customizer/sections/customizer-post.php:177
+msgid "Display post categories"
+msgstr "Display post categories"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+
+#: inc/customizer/sections/customizer-post.php:109
+msgid "Text after Excerpts"
+msgstr "Text after Excerpts"
+
+#: inc/customizer/sections/customizer-post.php:138
+msgid "Post Meta"
+msgstr "Post Meta"
+
+#: inc/customizer/sections/customizer-post.php:164
+msgid "Display post author"
+msgstr "Display post author"
+
+#: inc/customizer/sections/customizer-post.php:190
+msgid "Display post tags"
+msgstr "Display post tags"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Template"
+msgstr "Fullwidth Template"
+
+#: searchform.php:5
+msgctxt "placeholder"
+msgid "To search, type and hit enter &hellip;"
+msgstr "To search, type and hit enter &hellip;"
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#: search.php:48
+msgid "Please try again, or use the navigation menus to find what you search for."
+msgstr "Please try again, or use the navigation menus to find what you search for."
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/theme-info.php:152
+msgid "rate it"
+msgstr "rate it"
+
+#: inc/theme-info.php:149
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+
+#: inc/theme-info.php:83
+msgid "Customize Theme"
+msgstr "Customise Theme"
+
+#: inc/theme-info.php:67
+msgid "You need help to setup and configure this theme? We got you covered with an extensive theme documentation on our website."
+msgstr "You need help to setup and configure this theme? We've got you covered with extensive theme documentation on our website."
+
+#: inc/theme-info.php:57
+msgid "Getting Started with %s"
+msgstr "Getting Started with %s"
+
+#: inc/customizer/customizer.php:184 inc/theme-info.php:50
+msgid "Rate this theme"
+msgstr "Rate this theme"
+
+#: inc/customizer/customizer.php:178 inc/theme-info.php:49
+#: inc/theme-info.php:64
+msgid "Theme Documentation"
+msgstr "Theme Documentation"
+
+#: inc/customizer/customizer.php:172 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "Theme Demo"
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "Welcome to %1$s %2$s"
+
+#: inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "Theme Info"
+
+#: inc/template-tags.php:431
+msgid "Please go to Appearance &#8594; Menus and create a new custom menu with custom links to all your social networks. Then click on \"Manage Locations\" tab and assign your created menu to the \"Social Icons\" location."
+msgstr "Please go to Appearance &#8594; Menus and create a new custom menu with custom links to all your social networks. Then click on \"Manage Locations\" tab and assign your created menu to the \"Social Icons\" location."
+
+#: inc/template-tags.php:400
+msgid "Powered by %1$s and %2$s."
+msgstr "Powered by %1$s and %2$s."
+
+#: inc/template-tags.php:186
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: inc/featured-content.php:388
+msgid "Display featured posts in latest blog post listing."
+msgstr "Display featured posts in latest blog post listing."
+
+#: inc/featured-content.php:382
+msgid "Hide tag from displaying in post meta and tag clouds."
+msgstr "Hide tag from displaying in post meta and tag clouds."
+
+#: inc/featured-content.php:377
+msgid "Tag name"
+msgstr "Tag Name"
+
+#: inc/featured-content.php:350
+msgid "Easily feature all posts with the <a href=\"%1$s\">\"featured\" tag</a> or a tag of your choice. Your theme supports up to %2$s posts in its featured content area."
+msgstr "Easily feature all posts with the <a href=\"%1$s\">\"featured\" tag</a> or a tag of your choice. Your theme supports up to %2$s posts in its featured content area."
+
+#: inc/featured-content.php:349
+msgid "Featured Content"
+msgstr "Featured Content"
+
+#: inc/customizer/sections/customizer-post.php:122
+msgid "Display [...] after excerpts"
+msgstr "Display [...] after excerpts"
+
+#: inc/customizer/sections/customizer-post.php:93
+msgid "Display featured images on single posts"
+msgstr "Display featured images on single posts"
+
+#: inc/customizer/sections/customizer-post.php:79
+msgid "Display featured images on archive pages"
+msgstr "Display featured images on archive pages"
+
+#: inc/customizer/sections/customizer-post.php:66
+msgid "Post Images"
+msgstr "Post Images"
+
+#: inc/customizer/sections/customizer-post.php:34
+msgid "Two Columns"
+msgstr "Two Columns"
+
+#: inc/customizer/sections/customizer-post.php:33
+msgid "One Column"
+msgstr "One Column"
+
+#: inc/customizer/sections/customizer-post.php:27
+msgid "Post Layout"
+msgstr "Post layout"
+
+#: inc/customizer/sections/customizer-post.php:14
+msgid "Post Settings"
+msgstr "Post Settings"
+
+#: inc/customizer/sections/customizer-header.php:57
+msgid "Display Social Icons on main navigation"
+msgstr "Display Social Icons on main navigation"
+
+#: inc/customizer/sections/customizer-header.php:43
+msgid "Activate dropdown search field on header area"
+msgstr "Activate dropdown search field on header area"
+
+#: inc/customizer/sections/customizer-header.php:14
+#: inc/customizer/sections/customizer-header.php:28
+msgid "Header Content"
+msgstr "Header Content"
+
+#: inc/customizer/sections/customizer-general.php:61
+msgid "Footer Text"
+msgstr "Footer Text"
+
+#: inc/customizer/sections/customizer-general.php:46
+msgid "Title above Latest Posts"
+msgstr "Title above Latest Posts"
+
+#: inc/customizer/sections/customizer-general.php:34
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: inc/customizer/sections/customizer-general.php:33
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: inc/customizer/sections/customizer-general.php:27
+msgid "Theme Layout"
+msgstr "Theme Layout"
+
+#: inc/customizer/sections/customizer-general.php:14
+msgid "General Settings"
+msgstr "General Settings"
+
+#: inc/customizer/default-options.php:36
+#: inc/customizer/sections/customizer-general.php:40
+msgid "Latest Posts"
+msgstr "Latest Posts"
+
+#: inc/customizer/customizer.php:27 inc/theme-info.php:77
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: inc/template-tags.php:477
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/template-tags.php:466
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/template-tags.php:449 inc/template-tags.php:467
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: inc/template-tags.php:448
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:134 sidebar.php:14
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:103
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: functions.php:102
+msgid "Top Navigation"
+msgstr "Top Navigation"
+
+#: functions.php:101
+msgid "Main Navigation"
+msgstr "Main Navigation"
+
+#: featured-content.php:44 inc/template-tags.php:126 inc/template-tags.php:130
+msgid "Continue reading &raquo;"
+msgstr "Continue reading &raquo;"
+
+#: comments.php:41
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: comments.php:24
+msgid "% comments"
+msgstr "% Comments"
+
+#: comments.php:24
+msgid "One comment"
+msgstr "One comment"
+
+#: comments.php:14
+msgid "Enter password to view comments."
+msgstr "Enter password to view comments."
+
+#. Author URI of the plugin/theme
+msgid "https://themezee.com"
+msgstr "https://themezee.com"
+
+#. Author of the plugin/theme
+msgid "ThemeZee"
+msgstr "ThemeZee"
+
+#. #-#-#-#-#  momentous-lite.pot (Momentous Lite 1.3)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: inc/customizer/customizer.php:165 inc/theme-info.php:47
+msgid "https://themezee.com/themes/momentous/"
+msgstr "https://themezee.com/themes/momentous/"
