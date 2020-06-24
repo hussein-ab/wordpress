@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9e7518e-0260-4e48-9274-1ec51e6e93bd" name="Default Changelist" comment="" />
+    <list default="true" id="d9e7518e-0260-4e48-9274-1ec51e6e93bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/resumetheme/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/resumetheme/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/resumetheme/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/resumetheme/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/resumetheme/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/resumetheme/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/resumetheme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/resumetheme/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +19,12 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="ProjectId" id="1dfrdPldGMy2DcW0CTjJsXOwMbF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/new theme" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -31,12 +43,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\resumetheme\css" />
-      <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\resumetheme" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\new theme" />
+      <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\resumetheme" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\wordpress\wp-content\plugins" />
+      <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\resumetheme\css" />
       <recent name="C:\xampp\htdocs\wordpress\wp-content\themes\resumetheme" />
     </key>
   </component>
@@ -55,6 +68,7 @@
       <workItem from="1592897097724" duration="18173000" />
       <workItem from="1592949794111" duration="165000" />
       <workItem from="1592976115728" duration="5000" />
+      <workItem from="1592991778179" duration="12715000" />
     </task>
     <servers />
   </component>
@@ -78,10 +92,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="870" y="401" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1592903220845" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1592949934920">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1593006433310">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1592949934920" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1593006433310" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1592991780118">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1592991780118" />
     <state x="507" y="64" width="586" height="732" key="find.popup" timestamp="1592838521163">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
